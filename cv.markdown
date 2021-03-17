@@ -87,3 +87,20 @@ Discussed how humans perceive stimuli around them and dove into the biological p
 #### Experimental Methods and Instrumentation
 
 Learned MATLAB, basic wiring, and how to interface between them with a computer.
+
+## **Skills**
+
+------
+
+* Python 
+* Java 
+* C++ 
+* MATLAB
+* R/RStudio
+* Quantitative Statistics
+* Research Methods
+* Writing
+* Design Thinking 
+* Usability Testing Methods 
+* Problem Solving 
+* Presentations
