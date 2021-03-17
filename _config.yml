@@ -22,7 +22,7 @@ title: Alexander Steinley
 email: alex.steinley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website for Alexander Steinley. Here you will find my CV, portfolio, and any writing I've done that deserves to be published on the internet.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blob" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
