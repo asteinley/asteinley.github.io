@@ -16,15 +16,19 @@ permalink: /cv/
 
 ------
 
+
+
 Currently a Human Factors graduate student, Alexander seeks to improve the interactions with everyday technology, with a more specific interest in virtual reality and the gaming industry. Maintaining technological literacy in many applications, from Excel to Python, he has the foundational knowledge to begin a career in technology.
 
 ## **Education**
 
 ------
 
+
+
 ### M.A. Human Factors Psychology
 
-2019 - Present (Expected May 2021)
+**2019 - Present** (Expected May 2021)
 
 **Location:** University of South Dakota - Vermillion, SD
 
@@ -34,7 +38,7 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 
 ### B.S. Psychology, Honors
 
-2016 - 2019
+**2016 - 2019**
 
 **Location:** University of South Dakota - Vermillion, SD
 
@@ -44,9 +48,11 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 
 ------
 
+
+
 ### Graduate Teaching Assistant/Research
 
-2019 - Present
+**2019 - Present**
 
 **Location:** University of South Dakota - Vermillion, SD
 
@@ -57,6 +63,8 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 ## **Presentations**
 
 ------
+
+
 
 ### IdeaFest 2020 - April 2020
 
