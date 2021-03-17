@@ -68,3 +68,22 @@ Poster: *Examining Relationships Between Personality, Perspective, and Presence*
 
 ------
 
+#### Human Computer Interaction
+
+Learned the basics of HCI and design thinking, applying it to projects along the way.
+
+#### Usability Testing
+
+Learned the essential usability testing methods and had opportunities to apply them to projects.
+
+#### Research Methods and Statistics, Multivariate Statistics
+
+Learned statistics necessary for research and the methods to implement them around.
+
+#### Sensation and Perception
+
+Discussed how humans perceive stimuli around them and dove into the biological processes surrounding those perceptions. 
+
+#### Experimental Methods and Instrumentation
+
+Learned MATLAB, basic wiring, and how to interface between them with a computer.
