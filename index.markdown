@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![](C:\Users\alexs\Pictures\Saved Pictures\me.jpg)
+![](https://github.com/asteinley/asteinley.github.io/blob/main/pictures/me.jpg)
 
