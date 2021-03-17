@@ -88,7 +88,7 @@ Discussed how humans perceive stimuli around them and dove into the biological p
 
 Learned MATLAB, basic wiring, and how to interface between them with a computer.
 
-## **Skills**
+## Skills
 
 ------
 
