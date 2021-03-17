@@ -9,7 +9,7 @@ layout: home
 
 ```html
 <p align="center">
-  <img width="460" height="300" src="{{ BASE_PATH }}/pictures/me.jpg)">
+  <img width="460" height="300" src="https://asteinley.github.io/pictures/me.jpg">
 </p>
 ```
 
