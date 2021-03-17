@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![](https://github.com/asteinley/asteinley.github.io/blob/main/pictures/me.jpg)
+![](https://asteinley.github.io/blob/main/pictures/me.jpg)
 
