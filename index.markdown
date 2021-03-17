@@ -7,4 +7,10 @@ layout: home
 
 ![it's me!]({{ BASE_PATH }}/pictures/me.jpg)
 
+```html
+<p align="center">
+  <img width="460" height="300" src="{{ BASE_PATH }}/pictures/me.jpg)">
+</p>
+```
+
 Some content here, not sure what it will look like.
