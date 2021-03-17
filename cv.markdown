@@ -26,7 +26,7 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 
 2019 - Present (Expected May 2021)
 
-**Location:** University of South Dakota | Vermillion, SD
+**Location:** University of South Dakota - Vermillion, SD
 
 **Faculty Advisor:** Michael Granaas, Ph.D.
 
@@ -36,7 +36,7 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 
 2016 - 2019
 
-**Location:** University of South Dakota | Vermillion, SD
+**Location:** University of South Dakota - Vermillion, SD
 
 **Honors Thesis:** Examining Relationships Between Personality, Perspective, and Experienced Immersion
 
@@ -48,27 +48,25 @@ Currently a Human Factors graduate student, Alexander seeks to improve the inter
 
 2019 - Present
 
-**Location:** University of South Dakota | Vermillion, SD
+**Location:** University of South Dakota - Vermillion, SD
 
 **Faculty Advisor:** Michael Granaas, Ph.D.
 
 **Duties:** Assisted in course preparation and teaching, while simultaneously conducting personal research within the Department of Psychology. 
 
-## Presentations
+## **Presentations**
 
 ------
 
-### USD IdeaFest
-
-#### April 2020
+### IdeaFest 2020 - April 2020
 
 Poster: *The Impacts of Personality Traits and Environmental Factors on Player Immersion*
 
-#### April 2019
+### IdeaFest 2019 - April 2019
 
 Poster: *Examining Relationships Between Personality, Perspective, and Presence*
 
-## Relevant Courses
+## **Relevant Courses**
 
 ------
 
