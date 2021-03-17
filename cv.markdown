@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alexander R. Steinley CV
+title: CV
 permalink: /cv/
 ---
 
