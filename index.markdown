@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![it's me!]({{ BASE_PATH }}/main/pictures/me.jpg)
+![it's me!]({{ BASE_PATH }}/pictures/me.jpg)
 
 Some content here, not sure what it will look like.
