@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
+title: Alexander R. Steinley CV
 permalink: /cv/
 ---
-
-# Alexander R. Steinley
 
 **Email:** alex.steinley@gmail.com
 
