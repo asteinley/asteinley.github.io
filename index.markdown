@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![it's me!]({{ BASE_PATH }}/pictures/me.jpg){: .align-center}
+
 
 <p align="center">
 	<img width="341" height="342" src="./pictures/me.jpg">
