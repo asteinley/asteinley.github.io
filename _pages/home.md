@@ -3,13 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /
 ---
 
 
 
 <p align="center">
-	<img width="341" height="342" src="./pictures/me.jpg">
+	<img width="341" height="342" src="../pictures/me.jpg">
 </p>
+
 
 Some content here, not sure what it will look like.
 
