@@ -6,7 +6,7 @@ layout: home
 permalink: /
 ---
 
-
+Hello! My name is Alex.
 
 <p align="center">
 	<img width="341" height="342" src="../pictures/me.jpg">
