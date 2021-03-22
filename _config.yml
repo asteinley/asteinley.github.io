@@ -28,8 +28,8 @@ url: "https://asteinley.github.io/" # the base hostname & protocol for your site
 #github_username:  asteinley
 
 # Build settings
-#remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
