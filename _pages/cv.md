@@ -1,7 +1,13 @@
 ---
-layout: double
+defaults:
+  # _pages
+  - scope:
+      path: "/cv"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 title: CV
-permalink: /cv/
 ---
 
 **Email:** alex.steinley@gmail.com
