@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/cv/"
+      path: "/cv"
       type: pages
     values:
       layout: single
